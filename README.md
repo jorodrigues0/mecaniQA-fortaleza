@@ -2,8 +2,13 @@ A MecâniQA atende oficinas e auto centers de Feira de Santana e região, que en
 
 
 #Equipe#
-Joaqson Rodrigues Miranda
-Lucas Santos Oliveira	
-Manoel Souza Santos	
-Monique Prado Pereira Gomes	
-Raian Rocha Santos	
+
+Joaqson Rodrigues Miranda;
+
+Lucas Santos Oliveira;
+
+Manoel Souza Santos;
+
+Monique Prado Pereira Gomes;
+
+Raian Rocha Santos;	
